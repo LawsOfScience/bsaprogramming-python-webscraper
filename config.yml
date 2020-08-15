@@ -1,0 +1,5 @@
+main-user:
+  description: true
+  groups: true
+  friends: true
+  player-badges: false
